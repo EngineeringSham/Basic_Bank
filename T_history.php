@@ -69,7 +69,7 @@
 		<div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
 			© 2022 Copyright:
 			<a class="text-dark" href="Home.php">Our Site</a>
-			<h4>creatives.doni@gmail.com</h4>
+			<h4>creatives.garje@gmail.com</h4>
 		</div>
 	</footer>
 </body>
